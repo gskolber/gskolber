@@ -7,7 +7,7 @@
 
 - 💻 Backend and Chabots Enthusiast!
 - 📚 Currently studying biomedical informatics.
-- 🔭 Focusing my learning on elixir .
+- 🔭 Focusing my learning on elixir.
 - 🌱 I’m currently learning to learn.
 - 🎲 Passionate about dungeons and dragons.
 
