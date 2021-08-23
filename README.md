@@ -16,7 +16,6 @@
 ### 🛠 Languages and Tools
 
 [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;][python]
-[![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
 [![MySql](https://img.shields.io/twitter/url?color=000000&label=MySQL&logo=MySQL&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;][mysql]
 [![Sqlite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)&nbsp;][sqlite]
